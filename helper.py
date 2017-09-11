@@ -1,2 +1,2 @@
-def greeting(msg):
-    print("Hey you! " + msg)
+def print_message(msg):
+    print("Hey you!" + msg)

@@ -1,3 +1,3 @@
 import helper
 
-helper.greeting("Good day!")
+helper.print_message("Good day!")

@@ -1,3 +1,3 @@
 import helper
 
-helper.print_message("hello")
+helper.print_message("Hello there.")
